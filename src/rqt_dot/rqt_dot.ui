@@ -117,7 +117,7 @@
   <customwidget>
    <class>DotWidget</class>
    <extends>QWidget</extends>
-   <header>xdot.xdot_qt</header>
+   <header>rqt_dot.xdot_qt</header>
   </customwidget>
  </customwidgets>
  <resources/>
